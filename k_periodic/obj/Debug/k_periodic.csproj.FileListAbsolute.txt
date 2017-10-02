@@ -1,0 +1,7 @@
+D:\Users\Eric Rathnayake\Dropbox\MSSA\ISTA220\Programs\k_periodic\k_periodic\obj\Debug\k_periodic.csprojResolveAssemblyReference.cache
+D:\Users\Eric Rathnayake\Dropbox\MSSA\ISTA220\Programs\k_periodic\k_periodic\obj\Debug\k_periodic.csproj.CoreCompileInputs.cache
+D:\Users\Eric Rathnayake\Dropbox\MSSA\ISTA220\Programs\k_periodic\k_periodic\bin\Debug\k_periodic.exe.config
+D:\Users\Eric Rathnayake\Dropbox\MSSA\ISTA220\Programs\k_periodic\k_periodic\bin\Debug\k_periodic.exe
+D:\Users\Eric Rathnayake\Dropbox\MSSA\ISTA220\Programs\k_periodic\k_periodic\bin\Debug\k_periodic.pdb
+D:\Users\Eric Rathnayake\Dropbox\MSSA\ISTA220\Programs\k_periodic\k_periodic\obj\Debug\k_periodic.exe
+D:\Users\Eric Rathnayake\Dropbox\MSSA\ISTA220\Programs\k_periodic\k_periodic\obj\Debug\k_periodic.pdb
